@@ -85,3 +85,5 @@ This project delivers a comprehensive analysis of Barberking Enterprises' operat
 
 6. **Ongoing Monitoring:**
    - Establish regular reviews of transaction and performance data to adapt strategies dynamically.
+  
+## Presentation: https://www.canva.com/design/DAGVphyYcQA/r_dj32x6Kw_LLZl4ddZQww/view?utm_content=DAGVphyYcQA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hba26b77ff3
